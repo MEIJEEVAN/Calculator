@@ -4,3 +4,5 @@ to view my calculator.
 2. in command prompt type---> ~ cd calculator
 3. in command prompt type---> code .
 4. in lib-->paste my codes and delete already existing code.
+   
+![cal](https://github.com/user-attachments/assets/38260b73-299c-46a4-9eba-fe864fdbaa51)
